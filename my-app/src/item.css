@@ -1,0 +1,31 @@
+#contain {
+    display: flex; /* or inline-flex */
+    justify-content: space-evenly;
+    background-color: lightblue;
+    border-style:solid ;
+    border-radius: 5px;
+    height: 100px;
+  }
+
+.left{
+    padding-top:15%;
+    float: left;
+}  
+.fa-microphone {
+    font-size: 50px;
+}
+.fa-book {
+    font-size: 50px;
+}
+.fa-coffee {
+    font-size: 50px;
+}
+.fa-user {
+    font-size: 50px;
+}
+.right{
+    padding-top: 15%;
+    float:right;
+    text-align: left;
+    padding-left: 10px;
+}
